@@ -1,9 +1,3 @@
-# Faisal Husain Shaikh
-- Phone: +91-9664851786
-- Email: faisalhs2002@gmail.com
-- LinkedIn: [linkedin.com/in/Faisalhs51](https://linkedin.com/in/Faisalhs51)
-- GitHub: [github.com/Faisalhs51](https://github.com/Faisalhs51)
-
 ## Education
 ### B.E. in Information Technology, M.H. Saboo Siddik College of Engineering (2019-23)
   - CGPA: 8.58 (Sem VII)
