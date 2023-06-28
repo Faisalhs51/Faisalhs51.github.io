@@ -36,6 +36,12 @@
   - Managed the complete backend of the project.
   - Employed technologies such as BcryptJS, NodeMailer, and MongoDB Atlas.
 
+### **[FRONTEND CLONE OF ABSTRACT WEBSITE](https://faisalhs51.github.io/abstract-clone/)**
+  - Developed a high-fidelity frontend clone of the Abstract website, faithfully replicating its visual design and user interface.
+  - Leveraged expertise in HTML, CSS, and JavaScript to recreate interactive components and ensure seamless user experience.
+  - Implemented responsive design principles to optimize the clone for various devices and screen sizes.
+
+
 ### **[STUDENT GRADING SYSTEM](https://github.com/Faisalhs51/Student-Grading-System)**
   - An application for holding the records of student marks.
   - Clean interface, easy to understand, calculates the result, and stores it in the database.
