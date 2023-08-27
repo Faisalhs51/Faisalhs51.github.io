@@ -1,6 +1,6 @@
 ## Education
-### B.E. in Information Technology, M.H. Saboo Siddik College of Engineering (2019-23)
-  - CGPA: 8.58 (Sem VII)
+### B.E. in Information Technology,<br/> M.H. Saboo Siddik College of Engineering (2019-23)
+  - CGPA: 8.51
 
 ## Technical Skills
 
@@ -53,7 +53,7 @@
 - Ranked 4th in Code Loop competition
 - [Hackerrank Silver badge in Java](https://www.hackerrank.com/faisalhs2002)
 - [Hackerrank Silver badge in SQL](https://www.hackerrank.com/faisalhs2002)
-- [Solved 150+ Coding Questions in coding Platforms](https://docs.google.com/document/d/1P0e2wVLVwsjcpnvDubBgdnUoj9dwo3i57NP3Ug5B0kw/edit?usp=sharing)
+- [Solved 200+ Coding Questions in coding platforms](https://docs.google.com/document/d/1P0e2wVLVwsjcpnvDubBgdnUoj9dwo3i57NP3Ug5B0kw/edit?usp=sharing)
 
 ## Certifications
 
