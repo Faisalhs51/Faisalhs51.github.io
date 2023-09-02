@@ -41,6 +41,11 @@
   - Leveraged expertise in HTML, CSS, and JavaScript to recreate interactive components and ensure seamless user experience.
   - Implemented responsive design principles to optimize the clone for various devices and screen sizes.
 
+### **[SOCIAL MEDIA APP BACKEND](https://github.com/Faisalhs51/social-media-app/)**
+  - Created RESTful APIs for the Social Media Application in NodeJS.
+  - Account authentication using JWT token.
+  - Deployed full app on docker container.
+  - With basic unit testing for the APIs using MochaJS and ChaiJS.
 
 ### **[STUDENT GRADING SYSTEM](https://github.com/Faisalhs51/Student-Grading-System)**
   - An application for holding the records of student marks.
