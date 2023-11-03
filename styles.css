@@ -155,6 +155,18 @@ nav ul li {
   align-items: center;
   flex-direction: column;
 }
+.exp-container {
+  width: 100%;
+  height: 50vh;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-direction: column;
+}
+
+.exp-container ul{
+  list-style: none;
+}
 
 .heading-box {
   margin-top: 80px;
@@ -273,10 +285,14 @@ div strong {
 #express-img {
   width: 150px;
 }
+#next-img {
+  width: 120px;
+  padding: 35px 5px;
+}
 .os-container {
   display: flex;
   width: 100%;
-  height: 95vh;
+  height: 120vh;
   justify-content: space-evenly;
   align-content: center;
   flex-direction: column;
@@ -630,6 +646,10 @@ div strong {
     height: 200vh;
     background: radial-gradient(circle, white 0%, #d7d7d7 70%);
   }
+  .exp-container {
+    height: 60vh;
+    background: radial-gradient(circle, white 0%, #d7d7d7 70%);
+  }
   .achievement-ul {
     margin: 0px 15px;
   }
@@ -677,8 +697,12 @@ div strong {
   #express-img {
     width: 75px;
   }
+  #next-img {
+    width: 75px;
+    padding: 15px 5px;
+  }
   .os-container {
-    height: 100vh;
+    height: 120vh;
     background: radial-gradient(circle, white 0%, #d7d7d7 70%);
     padding: 0px 10px;
   }
