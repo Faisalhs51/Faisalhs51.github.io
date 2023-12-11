@@ -714,7 +714,7 @@ div strong {
   }
   .project-child-container {
     flex-direction: column;
-    height: 250vh;
+    height: 275vh;
   }
   .project-heading-container {
     text-align: center;
