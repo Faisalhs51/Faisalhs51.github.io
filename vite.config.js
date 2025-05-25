@@ -6,4 +6,12 @@ import tailwindcss from "@tailwindcss/vite";
 export default defineConfig({
   base: "/",
   plugins: [react(), tailwindcss()],
+  server: {
+    fs: {
+      strict: true
+    },
+    headers: {
+      'Content-Type': 'application/javascript'
+    }
+  }
 });
