@@ -25,9 +25,10 @@ const experienceData = [
     company: "AxStudios (Remote)",
     position: "Frontend Developer",
     startDate: "May 2023",
-    endDate: "Oct 2023",
+    endDate: "Dec 2023",
     description: `• Built responsive, high‑performance web applications using ReactJS, NextJS, and TailwindCSS, enhancing user experience and load speed.
-    • Collaborated closely with UI designers and backend developers to deliver cohesive, user‑centered products on time and aligned with business goals.`,
+    • Collaborated closely with UI designers and backend developers to deliver cohesive, user‑centered products on time and aligned with business goals.
+    • Built scalable REST APIs with Django, significantly boosting application speed through Redis caching and fine‑tuning PostgreSQL database queries for better performance.`,
   },
 ];
 
